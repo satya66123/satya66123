@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nekkanti Satya Srinath
 
-🚀 Full-Stack & Generative AI Developer | 8+ Years Experience  
+🚀 Full-Stack & Generative AI Developer | 9+ Years Experience  
 🔹 Java • Python • PHP • Django • Flask • Spring Boot  
 🔹 Generative AI • Offline AI • Cloud & DevOps Ready Systems  
 
