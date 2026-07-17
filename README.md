@@ -7,7 +7,7 @@
 ---
 
 ## 🧠 Profile Summary
-I am a Full-Stack & Generative AI Developer with over 8 years of experience building **end-to-end, production-oriented applications**. My work focuses on integrating **Generative AI (online and offline)** into real-world software systems rather than standalone demos.
+I am a Full-Stack & Generative AI Developer with over 9 years of experience building **end-to-end, production-oriented applications**. My work focuses on integrating **Generative AI (online and offline)** into real-world software systems rather than standalone demos.
 
 I design applications with a strong emphasis on **scalability, privacy, cost efficiency, and system architecture**, choosing the right AI approach—cloud-based or offline—based on the problem domain.
 
